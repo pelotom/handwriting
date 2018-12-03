@@ -1,2 +1,0 @@
-# handwriting
-Created with CodeSandbox

@@ -1,0 +1,13 @@
+.Handwriting--root {
+  position: relative;
+  margin: 0;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.Handwriting--clear {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+}
